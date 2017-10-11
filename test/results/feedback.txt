@@ -1,0 +1,15 @@
+Running all validations:
+
+val1.txt: Passed
+val2.txt: Passed
+val3.txt: Passed
+val4.txt: Passed
+val5.txt: Passed
+val6.txt: Passed
+val7.txt: Passed
+val8.txt: Passed
+val_icache_v2.txt: Passed
+val_prefetch_v2.txt: Passed
+
+Final score: 82 out of 82
+
